@@ -1,4 +1,4 @@
-# Music Generation Using LSTMs
+# Keyboard Piece Generation Using LSTMs
 
 <b> Application Requirements: </b> <br>
 MuseScore
